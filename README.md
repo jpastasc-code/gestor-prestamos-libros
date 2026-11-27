@@ -23,8 +23,8 @@ Aplicación de consola en **Java** para administrar el catálogo de una bibliote
 ## Avance
 | Act. | Fase | Estado |
 |---|---|---|
-| 0 | Espacio de trabajo | ✅ En revisión |
-| 1 | Intención | ⏳ |
+| 0 | Espacio de trabajo | ✅ |
+| 1 | Intención | 🔍 En revisión |
 | 2 | Requisitos | ⏳ |
 | 3 | Producto | ⏳ |
 | 4 | Diseño técnico | ⏳ |
