@@ -5,9 +5,9 @@ Taller **Desarrollo de software dirigido por especificaciones con asistencia de 
 Aplicación de consola en **Java** para administrar el catálogo de una biblioteca universitaria y registrar préstamos y devoluciones, desarrollada con el ciclo *Spec-Driven Development* (Iroko, 2026).
 
 ## Equipo
-- Juan Andrés
-- [Integrante 2]
-- [Integrante 3]
+- Juan Andrés Pastas
+- Juan Andrés Sánchez
+- Juan Andrés García
 
 ## Estructura
 | Carpeta | Contenido |

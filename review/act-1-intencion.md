@@ -54,11 +54,11 @@
 
 | Verificar | ☐/☑ | Observación |
 |---|---|---|
-| El problema no contiene datos inventados (solo lo que dice el enunciado) | ☐ | |
-| Ninguna capacidad excede las condiciones iniciales del taller | ☐ | |
-| "Datos clave" de 2.3 no adelanta decisiones de diseño indebidas | ☐ | |
-| Los criterios de éxito son verificables | ☐ | |
-| Las exclusiones son correctas (¿falta o sobra alguna?) | ☐ | |
-| La definición de "préstamo vencido" coincide con lo que espera la biblioteca | ☐ | |
+| El problema no contiene datos inventados (solo lo que dice el enunciado) | [x] | |
+| Ninguna capacidad excede las condiciones iniciales del taller | [x] | |
+| "Datos clave" de 2.3 no adelanta decisiones de diseño indebidas | [x] | |
+| Los criterios de éxito son verificables | [x] | |
+| Las exclusiones son correctas (¿falta o sobra alguna?) | [x] | |
+| La definición de "préstamo vencido" coincide con lo que espera la biblioteca | [x] | |
 
-**Estado:** ☐ Aprobado por el equipo
+**Estado:** [x] Aprobado por el equipo

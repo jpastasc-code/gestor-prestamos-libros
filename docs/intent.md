@@ -1,7 +1,7 @@
 # Engineering Intent Document
 
 > Actividad 1 · Prompts 2.1–2.4 (Iroko, 2026, cap. 2). Proceso y revisión: `review/act-1-intencion.md`.
-> **Versión:** 1.0 · **Estado:** ☐ Aprobado por el equipo
+> **Versión:** 1.0 · **Estado:** [x] Aprobado por el equipo
 
 ## 1. Nombre del proyecto
 **Gestor de préstamos de libros**
