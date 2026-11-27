@@ -4,8 +4,11 @@ Sirve para la entrega final: propuestas **incorrectas, incompletas o inadecuadas
 
 | ID | Actividad | Prompt | Problema detectado en la respuesta | Corrección del equipo |
 |---|---|---|---|---|
-| IA-001 | 0 | 4.4 Generate a workspace plan | Proponía `deployment-checklist.md` (no aplica: sin despliegue); creaba `TASK-001` antes de tener especificación; omitía convenciones de ID, registro de IA y `.gitignore`; no resolvía dónde van las pruebas Java | Ver adaptaciones A1–A7 en `docs/workspace-plan.md` |
-| IA-002 | 0 | 4.3 Improve an agent instruction file | Ver detalle abajo | AGENT.md v2 |
+| IA-001 | 0 | 4.4 Generate a workspace plan | La propuesta seguía la plantilla genérica de la sección 4.9 sin adaptarla al taller: incluía `deployment-checklist.md` (no hay despliegue) y `TASK-001` antes de tener especificación; no incluía convenciones de ID, registro de IA ni `.gitignore` | Adaptaciones A1–A7 en `docs/workspace-plan.md` |
+| IA-002 | 0 | 4.3 Improve an agent instruction file | La plantilla v1 tenía reglas vagas y límites faltantes (detalle abajo) | AGENT.md v2 |
+| IA-003 | 1 | 2.1–2.4 | *Completar el equipo con lo que encuentren en la revisión de `review/act-1-intencion.md`* | |
+
+> Registren aquí solo problemas **reales** que ustedes detecten. No inventen errores.
 
 ---
 

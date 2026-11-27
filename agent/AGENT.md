@@ -9,7 +9,7 @@ Aplicación de consola en **Java** para una biblioteca universitaria pequeña. U
 **Fuera de alcance:** autenticación, interfaz gráfica, integraciones externas, despliegue en servidor.
 
 ## Fase actual
-`Actividad 0 — Preparación del espacio de trabajo`
+`Actividad 1 — Intención de ingeniería` (siguiente: Actividad 2 — Requisitos)
 (Actualizar en cada fase: 1 Intención · 2 Requisitos · 3 Producto · 4 Diseño · 5 Tareas · 6 Pruebas · 7 Implementación · 8 Revisión · 9 Evolución)
 
 ## Carpetas
