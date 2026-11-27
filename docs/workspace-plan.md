@@ -53,4 +53,4 @@ app_Especidicaciones_IA/
 └── ops/     guia-ejecucion · maintenance-notes
 ```
 
-**Estado:** ☐ Aprobado por el equipo
+**Estado:** [x] Aprobado por el equipo
